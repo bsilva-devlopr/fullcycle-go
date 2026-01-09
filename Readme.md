@@ -76,7 +76,7 @@ A imagem final gerada possui menos de 2MB, atendendo totalmente ao requisito do 
 
 Clone o repositório:
 
-- git clone https://github.com/neomeca/fullcycle-go
+- git clone https://github.com/bsilva-devlopr/fullcycle-go
 
 Entre na pasta:
 
