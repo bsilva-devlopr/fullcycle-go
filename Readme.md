@@ -76,7 +76,7 @@ A imagem final gerada possui menos de 2MB, atendendo totalmente ao requisito do 
 
 Clone o repositório:
 
-- git clone https://github.com/bsilva-devlopr/fullcycle-go
+- git clone https://github.com/neomeca/fullcycle-go
 
 Entre na pasta:
 
@@ -115,6 +115,18 @@ Para publicar a imagem:
 ```bash
 docker tag fullcycle <seu-user-dockerhub>/fullcycle
 docker push <seu-user-dockerhub>/fullcycle
+```
+
+## 🔗 Docker Hub
+
+Link da imagem:
+
+https://hub.docker.com/r/neomeca/fullcycle
+
+Para executar diretamente:
+
+```bash
+docker run neomeca/fullcycle
 ```
 
 ## 🧠 Por que a imagem é tão pequena?
